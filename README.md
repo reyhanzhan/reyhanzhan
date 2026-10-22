@@ -2,7 +2,7 @@
 
 Saya paling sering membangun sistem untuk urusan bisnis: pengadaan barang, gudang, penagihan, pencatatan transaksi bank, dan perawatan aset. Di luar itu saya menulis bot dan skrip otomasi untuk pekerjaan yang berulang.
 
-[Portfolio](https://porto-fullstack-reyhan-e4nx.vercel.app)
+[Portfolio](https://reyhan-rizqi.vercel.app/)
 
 ## Sorotan
 
