@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260" role="img" aria-labelledby="t d">
+  <title id="t">Reyhan Rizqi</title>
+  <desc id="d">Developer web dan mobile di Surabaya, Indonesia. Sistem pengadaan dengan .NET 8, perbankan dengan Java, gudang dengan Next.js dan NestJS, penagihan dengan Go.</desc>
+  <style>
+    text { font-family: ui-sans-serif, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .name { font-size: 54px; font-weight: 700; fill: #1d1b16; }
+    .role { font-size: 22px; fill: #1d1b16; }
+    .meta, .label { font-size: 15px; fill: #5f5a4d; }
+    .value { font-size: 15px; font-weight: 600; fill: #1d1b16; text-anchor: end; }
+  </style>
+  <rect width="900" height="260" rx="8" fill="#f7f4ec"/>
+
+  <text class="name" x="48" y="118">Reyhan Rizqi</text>
+  <rect x="48" y="138" width="56" height="4" fill="#b42318"/>
+  <text class="role" x="48" y="184">Developer web dan mobile</text>
+  <text class="meta" x="48" y="214">Surabaya, Indonesia</text>
+
+  <g stroke="#d9d3c3" stroke-width="1">
+    <line x1="548" x2="852" y1="56" y2="56"/>
+    <line x1="548" x2="852" y1="100" y2="100"/>
+    <line x1="548" x2="852" y1="144" y2="144"/>
+    <line x1="548" x2="852" y1="188" y2="188"/>
+    <line x1="548" x2="852" y1="232" y2="232"/>
+  </g>
+  <text class="label" x="548" y="84">Pengadaan</text>
+  <text class="value" x="852" y="84">.NET 8 · PostgreSQL</text>
+  <text class="label" x="548" y="128">Perbankan</text>
+  <text class="value" x="852" y="128">Java</text>
+  <text class="label" x="548" y="172">Gudang</text>
+  <text class="value" x="852" y="172">Next.js · NestJS · FastAPI</text>
+  <text class="label" x="548" y="216">Penagihan</text>
+  <text class="value" x="852" y="216">NestJS · Go · Redis</text>
+</svg>
