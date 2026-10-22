@@ -1,115 +1,32 @@
-<div align="center">
+# Reyhan Rizqi
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · reyhanzhan</sub></p>
-<h1>Reyhan Rizqi</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>developer | web &amp; mobile developer</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Surabaya, Indonesia</sub></p>
-<p><a href="https://github.com/reyhanzhan">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/87642736?u=38ad00fd71c0a8caf5c19d6f8416df7660848165&amp;v=4" width="180" alt="Reyhan Rizqi GitHub avatar" />
-</td>
-</tr>
-</table>
-</div>
+Developer web dan mobile di Surabaya, Indonesia.
 
-<h2>What teams can evaluate quickly</h2>
+Saya paling sering membangun sistem untuk urusan bisnis: pengadaan barang, gudang, penagihan, pencatatan transaksi bank, dan perawatan aset. Di luar itu saya menulis bot dan skrip otomasi untuk pekerjaan yang berulang.
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · JavaScript · Fluent</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>38 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>143 contributions · 58 active days</p></td>
-</tr>
-</table>
+[Portfolio](https://porto-fullstack-reyhan-e4nx.vercel.app)
 
-<p><sub>developer | web &amp; mobile developer</sub></p>
+## Proyek pilihan
 
-<h2>Proof at a glance</h2>
+| Proyek | Isi | Stack |
+|---|---|---|
+| [sistem_pengadaan_barang](https://github.com/reyhanzhan/sistem_pengadaan_barang) | Sistem e-procurement B2B multi-tenant. Clean Architecture dengan CQRS, autentikasi JWT, otorisasi berbasis policy, dan unit test. | .NET 8, EF Core, PostgreSQL, xUnit |
+| [java_banking](https://github.com/reyhanzhan/java_banking) | Layanan inti perbankan mini. Transfer antar rekening dengan buku besar double-entry, transaksi ACID, pengupermintaan dan deteksi anomali. | Next.js, NestJS, PostgreSQL, Redis, FastAPI, Prophet |
+| [saas_API_monetization](https://github.com/reyhanzhan/saas_API_monetization) | Platform penagihan berbasis pemakaian API: validasi API key, rate limit, dan tagihan bulanan. | Next.js, NestJS, Go, PostgreSQL, Redis, RabbitMQ |
+| [maintenance_ac_fiks](https://github.com/reyhanzhan/maintenance_ac_fiks) | Pencatatan dan pelaporan perawatan unit AC di beberapa rumah sakit, dengan panel admin dan alur kerja koordinator. Versi mobile-nya ada di [maintenance_ac_mobile](https://github.com/reyhanzhan/maintenance_ac_mobile). | PHP, Blade, Flutter |
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>38</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>143</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+## Bot dan otomasi
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=reyhanzhan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87642736%3Fu%3D38ad00fd71c0a8caf5c19d6f8416df7660848165%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=reyhanzhan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87642736%3Fu%3D38ad00fd71c0a8caf5c19d6f8416df7660848165%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Reyhan Rizqi GitHub proof metrics" />
-</picture>
-</p>
+| Proyek | Isi | Stack |
+|---|---|---|
+| [autotrade](https://github.com/reyhanzhan/autotrade) | Bot trading Binance Futures dengan strategi SMC/ICT dan dasbor untuk memantau posisi. Default-nya jalan di testnet dan dry-run. | TypeScript, Next.js, Prisma, PM2 |
+| [auto_forex](https://github.com/reyhanzhan/auto_forex) | Bot MT5 untuk akun 
+| [auto-send-wa](https://github.com/reyhanzhan/auto-send-wa) | Pengiriman pesan WhatsApp terjadwal lewat Cloud API resmi Meta. Penjadwalnya GitHub Actions, jadi tanpa server. | Node.js, Python, GitHub Actions |
+| [share-platform](https://github.com/reyhanzhan/share-platform) | Tempel link live, pilih platform, lalu sebarkan. Tanpa API dan tanpa token. | HTML, CSS, JavaScript |
 
-<h2>Selected work</h2>
+## Yang saya pakai
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=reyhanzhan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87642736%3Fu%3D38ad00fd71c0a8caf5c19d6f8416df7660848165%26v%3D4&repos=reyhanzhan%2Fauto-send-wa%2Creyhanzhan%2Fshare-platform%2Creyhanzhan%2Fshare-hub%2Creyhanzhan%2Fsistem_pengadaan_barang&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=reyhanzhan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87642736%3Fu%3D38ad00fd71c0a8caf5c19d6f8416df7660848165%26v%3D4&repos=reyhanzhan%2Fauto-send-wa%2Creyhanzhan%2Fshare-platform%2Creyhanzhan%2Fshare-hub%2Creyhanzhan%2Fsistem_pengadaan_barang&v=recruiter-projects-1&mode=dark" width="100%" alt="Reyhan Rizqi selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/reyhanzhan/auto-send-wa">auto-send-wa</a></h3>
-<p>A selected public project.</p>
-<p><sub>Python · ⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/reyhanzhan/auto-send-wa">Read the repository →</a></p>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/reyhanzhan/share-platform">share-platform</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/reyhanzhan/share-hub">share-hub</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/reyhanzhan/sistem_pengadaan_barang">sistem_pengadaan_barang</a></h3><p>A selected public project.</p><p><sub>C# · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<h2>Technical toolkit</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=reyhanzhan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87642736%3Fu%3D38ad00fd71c0a8caf5c19d6f8416df7660848165%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=reyhanzhan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87642736%3Fu%3D38ad00fd71c0a8caf5c19d6f8416df7660848165%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Reyhan Rizqi technology stack" />
-</picture>
-</p>
-
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>52% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>39% of public code</sub></td>
-<td width="20%" align="center"><strong>Fluent</strong><br /><sub>2% of public code</sub></td>
-<td width="20%" align="center"><strong>SCSS</strong><br /><sub>2% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>1% of public code</sub></td>
-</tr>
-</table>
-
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=reyhanzhan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87642736%3Fu%3D38ad00fd71c0a8caf5c19d6f8416df7660848165%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=reyhanzhan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87642736%3Fu%3D38ad00fd71c0a8caf5c19d6f8416df7660848165%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Reyhan Rizqi contribution activity" />
-</picture>
-</p>
-
-<hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/reyhanzhan">GitHub</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>Reyhan Rizqi · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+- **Bahasa:** TypeScript, JavaScript, Python, Java, C#, Go, PHP, Dart
+- **Web dan mobile:** Next.js, React, Astro, NestJS, FastAPI, Flutter
+- **Data dan antrean:** PostgreSQL, MySQL, SQLite, Redis, RabbitMQ
+- **Deploy:** Docker, GitHub Actions, Vercel, PM2
